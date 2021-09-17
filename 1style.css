@@ -127,3 +127,18 @@ input[type="file"] {
   background-color: #169c7b;
   color:white;
 }
+.brn {
+  display:inline-block;
+  padding:10px 20px;
+  background-color: #ffffff;
+  font-size:17px;
+  border:none;
+  border-radius:5px;
+  color:#000000;
+  cursor:pointer;
+}
+
+.brn:hover {
+ background-color: #273d86;
+ color:white;
+}
